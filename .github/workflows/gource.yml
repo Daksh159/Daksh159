@@ -1,0 +1,31 @@
+name: GitHub History Visualization
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0"   # Weekly (GIF is heavy)
+
+permissions:
+  contents: write
+
+jobs:
+  gource:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Gource visualization
+        uses: nbprojekt/gource-action@v1
+        with:
+          gource_title: "Daksh159 • GitHub Journey"
+          gource_fps: 60
+          gource_resolution: 1280x720
+          output_file: gource.gif
+
+      - name: Commit GIF
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add gource.gif
+          git commit -m "Update GitHub journey visualization" || echo "No changes"
+          git push

@@ -7,4 +7,3 @@ Welcome to my GitHub profile!
 </p>
 
 
-<img align="center" width="100%" src="gh-space-shooter.gif" />

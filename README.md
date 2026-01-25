@@ -49,9 +49,9 @@ I’m a **third-year Computer Science (Data Science) student** from Mumbai who e
   <img width="12"/>
   <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" height="40" alt="Keras"/>
   <img width="12"/>
-  <img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" height="40" alt="OpenCV"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" height="40" alt="OpenCV"/>
   <img width="12"/>
-  <img src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" height="40" alt="PyTorch"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" height="40" alt="PyTorch"/>
 </p>
 
 <p align="center">

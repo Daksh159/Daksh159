@@ -7,7 +7,3 @@ Welcome to my GitHub profile!
 </p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Daksh159/Daksh159/output/ghost.svg" />
-</p>
-

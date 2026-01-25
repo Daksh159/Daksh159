@@ -69,21 +69,6 @@ I’m a **third-year Computer Science (Data Science) student** from Mumbai who e
 
 ---
 
-### 🧩 Contribution Graph
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph"/>
-</p>
-
-
-
-
-
-
-
-
-
-
 ## 🚀 My GitHub in Action
 
 ![GitHub Space Shooter](game.gif)

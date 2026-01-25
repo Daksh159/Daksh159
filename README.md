@@ -7,3 +7,12 @@ Welcome to my GitHub profile!
 </p>
 
 
+## 🛰️ Contribution Radar
+
+<p align="center">
+  <img src="./radar.svg" />
+</p>
+
+<p align="center">
+  <sub>My GitHub activity visualized as a radar sweep</sub>
+</p>

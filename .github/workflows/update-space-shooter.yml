@@ -19,4 +19,6 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: DakshGoyal
           output-path: 'gh-space-shooter.gif'
-          strategy: 'random'
+          strategy: column
+          fps: 30
+          max-frame: 500

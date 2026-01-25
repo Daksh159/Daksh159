@@ -2,4 +2,6 @@
 
 Welcome to my GitHub profile!
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svg)
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" />
+</p>

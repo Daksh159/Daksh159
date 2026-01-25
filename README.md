@@ -3,8 +3,11 @@
 Welcome to my GitHub profile!
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" />
 </p>
 
-<!-- Colorful -->
-<img src="./profile-3d-contrib/profile-gitblock.svg" />
+
+
+
+
+
